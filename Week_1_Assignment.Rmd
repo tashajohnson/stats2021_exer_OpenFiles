@@ -88,8 +88,9 @@ plot(cars)
 
 ## Add a new code block
 Add a new code chunk below this line by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
-
-
+```{r eval=FALSE}
+view(cars)
+```
 
 ## Save your output.
 Save this assignment as a markdown file by following these steps:
